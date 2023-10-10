@@ -1,0 +1,1 @@
+resource_group = "sw1701-0-bncx_rg"
